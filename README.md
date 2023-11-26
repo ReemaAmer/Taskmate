@@ -19,7 +19,7 @@ Usage Guide: once you open the app you can see a plus button in the bottom right
 you can edit tasks by draging the task to the right, and delete it when you drag it to the left.
 you can mark the task as completed when you click on the check button next to the task.
 
-Contributers:Taif Mosa, Rema Amer and Ebtsam Hazem
+Contributers:Taif Mosa, Rema Amer,shahad manjahey and Ebtsam Hazem
 
 Contact Information:
 email:444807967@kku.edu.sa
