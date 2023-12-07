@@ -20,6 +20,10 @@ you can edit tasks by draging the task to the right, and delete it when you drag
 you can mark the task as completed when you click on the check button next to the task.
 
 Contributers:Taif Mosa, Rema Amer,shahad manjahey and Ebtsam Hazem
+Link account:
+https://github.com/ReemaAmer/Taskmate
+
+
 
 Contact Information:
 email:444807967@kku.edu.sa
